@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Secretcom</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="name">Name</string>
+    <string name="meeting_id">Meeting ID</string>
+    <string name="join_room">Join Room</string>
+    <string name="leave_room">Leave Room</string>
+    <string name="push_to_talk">Push to Talk</string>
+    <string name="release_to_stop">Release to Stop</string>
+    <string name="admin_panel">Admin Panel</string>
+    <string name="mute">Mute</string>
+    <string name="unmute">Unmute</string>
+    <string name="remove">Remove</string>
+    <string name="room">Room</string>
+    <string name="participants">Participants</string>
+    <string name="exit">Exit</string>
+    <string name="logout">Logout</string>
+    <string name="notification_channel_name">Secretcom Audio Service</string>
+    <string name="notification_channel_desc">Keeps audio communication active</string>
+</resources>
